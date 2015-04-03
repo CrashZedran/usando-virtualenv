@@ -1,8 +1,8 @@
-## Usando-virtualenv
+# Usando-virtualenv
 
 Este es una breve explicacion de como instalar virtualenv, crear y activar un entorno virtual.
 
-# Instalando virtualenv
+## Instalando virtualenv
 
 primero instalamos la libreria de python virtualenv con el instalador 
 de paquetes pip de la siguiente manera:
@@ -11,7 +11,7 @@ de paquetes pip de la siguiente manera:
 
 sino salio ningun error procedemos a crear nuestro entorno virtual.
 
-# Crear entorno virtual con Virtualenv
+## Crear entorno virtual con Virtualenv
 
 Para crear nuestro entorno virtual con virtualenv procedemos a crear
 el directorio donde queremos crear nuestros entornos viruales, a mi me gusta
@@ -29,7 +29,7 @@ nombre de nuestro entorno virtual asi:
 
 Despues de esto seguimos con el siguiente paso.
 
-# Activando nuestro entorno virtual
+## Activando nuestro entorno virtual
 
 Cuando creamos un entorno virtual con virtualenv, este nos crea los siguientes 
 directorios en nuestra en el directorio "Experimentos" que ess nuestro entorno
